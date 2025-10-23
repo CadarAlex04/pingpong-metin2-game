@@ -4,7 +4,7 @@ A small Pong game made in C++ using the Raylib library. Players can control padd
 # Features
  - Player1 and Player2 controls (keyboard).
  - Textured paddles and background.
- - Background music and scoring sound effects
+ - Background music 
 
  # Controls
   - Player1: Arrow Up / Arrow Down
